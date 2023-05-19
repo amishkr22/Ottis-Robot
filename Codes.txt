@@ -1,0 +1,16 @@
+If the robot is already in the "home" position with the test code, 
+then you can upload the final codes, the code for the Arduino Nano controls the servo motors with the help of the library for the PCA9685 driver, 
+the Arduino UNO code controls the gestures performed with the display and the buzzer, 
+the arduinos communicate via i2c protocol, the Nano receives the commands from an android application via bluethoot and sends data to the UNO to perform the corresponding gestures
+
+libraries (Arduino UNO):
+
+Cute buzzer sounds:https://drive.google.com/file/d/1hGTMd_5iqw0oo43KZcO1XjjoreXarMkw/view?usp=sharing
+
+TFT display: https://github.com/JoaoLopesF/SPFD5408
+
+
+
+Arduino Nano code:https://drive.google.com/file/d/1wFzN4lqWscweqg6aMt2G9hzuLylDkZWx/view?usp=sharing
+
+Arduino UNO code:https://drive.google.com/file/d/1xcpe3QGNugKbf9jeuONmJVWDFSzwoTBT/view?usp=sharing
