@@ -1,0 +1,8 @@
+Now you could upload the arduino code to both cards, but before uploading the final codes you must upload the test code to the arduino nano, be careful, you must upload the arduino nano code with the bluethoot module disconnected, otherwise an error will appear, after uploading the test code you have to assemble the shaft of the servos, the robot must be in this position with the code test, that is to calibrate the positions of the servos, the test code has the position "home" for the robot.
+
+You need this library for the servo driver
+https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library/blob/master/examples/pwmtest/pwmtest.ino
+
+
+Test code:
+https://drive.google.com/file/d/13bqThnsl_gnkbV_8nVJOvAqs7p3Nr94A/view?usp=sharing
